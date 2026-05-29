@@ -20,12 +20,12 @@ function Navbar() {
       </div>
 
       {/* 🔥 Bottom Bar */}
-      <div className="bg-white dark:bg-[#0b1220] px-6 py-4 border-b border-black/10 dark:border-white/10 transition-colors duration-300">
+      {/* <div className="bg-white dark:bg-[#0b1220] px-6 py-4 border-b border-black/10 dark:border-white/10 transition-colors duration-300">
         <h1 className="text-2xl font-bold text-black dark:text-white">لوحة التحكم</h1>
         <p className="text-gray-600 dark:text-gray-400 text-sm">
           نظرة عامة على المبيعات، المخزون، والتنبيهات
         </p>
-      </div>
+      </div> */}
 
     </div>
   );
